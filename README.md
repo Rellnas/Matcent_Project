@@ -38,7 +38,6 @@ cd Step\ 3 && streamlit run app.py
 ```
 Matcent_Project/
 ├── README.md (this file)
-├── Case-Study-Report.md (full docs)
 ├── app.py, requirements.txt
 ├── Processing-Data-Into-DB/
 │   ├── Schema.sql → Create 16 database tables
