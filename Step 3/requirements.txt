@@ -1,0 +1,7 @@
+streamlit>=1.35.0          # Web framework (dashboard UI)
+pandas>=2.1.0              # Data manipulation
+numpy>=1.25.0              # Numerical calculations
+plotly>=5.18.0             # Interactive charts
+supabase>=2.4.0            # Database connection
+python-dotenv>=1.0.0       # Environment variables
+requests>=2.31.0           # HTTP requests (OpenRouter API)
